@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark light;
+}
+
+body {
+  @apply bg-black text-gray-100 antialiased;
+}
+
+a {
+  @apply underline decoration-brand-400 underline-offset-2 transition-colors hover:decoration-brand-200;
+}

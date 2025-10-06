@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "album_slug": "doggos",
+    "filename_original": "doggos_20250112_120000_001.jpg",
+    "cf_image_id": "sample-dog-1",
+    "width": 2048,
+    "height": 1365,
+    "alt": "Happy dog looking back at the camera",
+    "exif": {
+      "make": "Canon",
+      "model": "EOS R10",
+      "lens": "RF-S18-45mm F4.5-6.3 IS STM",
+      "iso": 400,
+      "fnumber": 2.8,
+      "exposure_time": "1/250",
+      "focal_length": 35,
+      "date_original": "2025-01-12T12:00:00Z",
+      "gps_lat": null,
+      "gps_lon": null
+    },
+    "tags": ["dogs", "outdoor"],
+    "created_at": "2025-01-12T12:00:00.000Z",
+    "published": true
+  }
+]
